@@ -1,2 +1,6 @@
-# acmicpc
-백준저지(acmicpc.net)에 올린 코드
+ACMICPC
+=====
+
+https://www.acmicpc.net/user/zinc
+
+백준 온라인저지에 제출한 코드를 이 저장소에 올린다.
